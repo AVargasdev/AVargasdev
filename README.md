@@ -1,5 +1,5 @@
 # 👋 ¡Hola, soy Andrés Vargas Rodríguez!  
-**_Developer Junior en Ingeniería en Sistemas_**  
+**_junior Developer en Ingeniería en Sistemas_**  
 
 ---
 
