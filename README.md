@@ -1,38 +1,54 @@
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B6222F&width=435&lines=Hola!+Soy+Andrés+Vargas+Rodríguez,+Ing.+en+Sistemas."
-    alt="Typing SVG"
-  />
-</a>
+# 👋 ¡Hola, soy Andrés Vargas Rodríguez!  
+**_junior Developer en Ingeniería en Sistemas_**  
 
-## 🌐 Tecnologías con las que he trabajado
-<p>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="CSS3"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="Visual Studio"/>
-  <img width="64" height="64" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="C#"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="Microsoft SQL Server"/> 
-  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="Bootstrap"/>
-</p>
+---
 
-## 📊 Estadísticas de GitHub
-<div align="center">
-  <a href="https://github.com/AVargasdev">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVargasdev&layout=compact&langs_count=7&theme=one_dark_pro"/>
-  </a>
-  <a>
-    <img style="width: 195px;" src="https://i.pinimg.com/originals/0a/d5/bb/0ad5bb032b0d35e4f27edcd713e67614.gif" />
-  </a>
-</div>
+## 💻 **Sobre mí**  
+Soy un apasionado por la tecnología y el desarrollo de software. Actualmente, me especializo en:  
+- 🔹 **HTML, CSS, y JavaScript** para desarrollo front-end.  
+- 🔹 **C# y Java** para aplicaciones robustas.  
+- 🔹 Resolución de problemas y mejora continua en proyectos tecnológicos.  
 
-## 📫 Conéctate Conmigo
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/AVargasdev/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="mailto:avargasg.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+🎯 **Mi objetivo:** Crear soluciones innovadoras que impulsen la transformación digital y mejorar continuamente mis habilidades en el mundo del desarrollo de software.
+
+---
+
+## 🛠️ **Habilidades Técnicas**  
+
+### Lenguajes y Tecnologías  
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-purple?style=flat&logo=csharp&logoColor=white)  
+![.NET](https://img.shields.io/badge/-.NET-blueviolet?style=flat&logo=.net&logoColor=white)
+
+### Herramientas  
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-blueviolet?style=flat&logo=visual-studio&logoColor=white)  
+![NetBeans](https://img.shields.io/badge/-NetBeans-green?style=flat&logo=apache-netbeans-ide&logoColor=white)  
+![Scene Builder](https://img.shields.io/badge/-Scene%20Builder-lightgrey?style=flat&logo=java&logoColor=white)
+
+---
+
+## 🌟 **Proyectos Destacados**  
+### ♟️ **Juego de Ajedrez**  
+Desarrollé un juego de ajedrez utilizando **Java** y **NetBeans**, con interfaz gráfica diseñada en **Scene Builder**. Este proyecto me ayudó a mejorar mis habilidades en programación orientada a objetos y diseño de interfaces amigables.
+
+### 📘 **Sistema de Matrícula Estudiantil**  
+Creé un sistema de gestión de matrícula para estudiantes, implementado en **Java** y enfocado en la organización eficiente de datos académicos. Este proyecto integra manejo de bases de datos y validaciones para asegurar la integridad de la información.
+
+### 🛠️ **Aplicaciones con .NET**  
+He trabajado en proyectos con **.NET**, aplicando este framework para desarrollar aplicaciones seguras y escalables, destacándome en la organización del código y la creación de soluciones robustas.
+
+---
+
+## 📫 **Conéctate conmigo**  
+📍 **GitHub:** [AVargasdev](https://github.com/AVargasdev)  
+📍 **LinkedIn:** [AVargasdev](https://www.linkedin.com/in/AVargasdev)  
+📍 **Email:** avargasg.dev@gmail.com  
+
+---
+
+## ✨ **¡Siempre aprendiendo!**  
+Estoy explorando nuevas tecnologías como **React.js** y **Node.js** para expandir mis habilidades y contribuir a proyectos innovadores. 🚀  
