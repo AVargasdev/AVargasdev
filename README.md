@@ -5,7 +5,7 @@
 
 ## 💻 **Sobre mí**  
 Soy un apasionado por la tecnología y el desarrollo de software. Actualmente, me especializo en:  
-- 🔹 **HTML, CSS, y JavaScript** para desarrollo front-end.  
+- 🔹 **HTML, y JavaScript** para desarrollo front-end.  
 - 🔹 **C# y Java** para aplicaciones robustas.  
 - 🔹 Resolución de problemas y mejora continua en proyectos tecnológicos.  
 
