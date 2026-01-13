@@ -5,19 +5,20 @@
   />
 </a>
 
-## Tecnologías con las que he trabajado
+## 🌐 Tecnologías con las que he trabajado
 <p>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/>
-  <img width="64" height="64" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="c-sharp-logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/> 
-  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="CSS3"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="Visual Studio"/>
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="C#"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="Microsoft SQL Server"/> 
+  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="Bootstrap"/>
 </p>
 
-<div align="center" style="display: flex; justify-content: center;">
+## 📊 Estadísticas de GitHub
+<div align="center">
   <a href="https://github.com/AVargasdev">
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVargasdev&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
@@ -26,12 +27,12 @@
   </a>
 </div>
 
-<div align="right"> 
+## 📫 Conéctate Conmigo
+<div align="center"> 
   <a href="https://www.linkedin.com/in/AVargasdev/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
   <a href="mailto:avargasg.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
